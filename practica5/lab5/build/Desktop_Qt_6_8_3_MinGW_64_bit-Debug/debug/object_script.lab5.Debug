@@ -1,0 +1,10 @@
+debug/fantasma.o
+debug/main.o
+debug/mainwindow.o
+debug/mapa.o
+debug/pacman.o
+debug/puntos.o
+debug/moc_fantasma.o
+debug/moc_mainwindow.o
+debug/moc_pacman.o
+debug/moc_puntos.o
